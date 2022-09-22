@@ -37,7 +37,7 @@ def jogar():
       porcentagem_chute = (chute/numero_secreto) * 100 #dica para chegar ao resultado, com uma regra de 3 fica easy.
 
       if acertou :
-          print("Parabéns, você acertou")
+          print("Parabéns, você acertou!")
           break
     
       else:
